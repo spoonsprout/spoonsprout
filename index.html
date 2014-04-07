@@ -1,0 +1,17 @@
+---
+layout: default
+title: welcome
+---
+<section class="intro">
+<div class="site">
+{% capture intro %}
+  {% include intro.markdown %}
+{% endcapture %}
+{{ intro | unindent | markdownify }}
+</div>
+</section>
+
+
+
+
+{% include footer.html %}
