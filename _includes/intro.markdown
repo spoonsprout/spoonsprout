@@ -1,4 +1,4 @@
 
-#Under Construction
+#While we're making our own website,
 
-Please send any inquiries to [spoonsprout@gmail.com](mailto:spoonsprout@gmail.com)
+ask us to build yours! [Please email us.](mailto:spoonsprout@gmail.com)
